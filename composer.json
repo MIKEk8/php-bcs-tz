@@ -1,0 +1,18 @@
+{
+    "name": "mikek8/php-bcs-tz",
+    "type": "project",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-gii": "^2.2"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "MIKEk8",
+            "email": "mik-ek8944@ya.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
